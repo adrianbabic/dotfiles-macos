@@ -1,0 +1,5 @@
+theme = "DoomOne"
+
+keybind = command+r=reload_config
+
+font-size = 20
