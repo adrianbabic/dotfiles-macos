@@ -2,4 +2,9 @@ theme = "DoomOne"
 
 keybind = command+r=reload_config
 
+keybind = command+j=goto_split:left
+keybind = command+k=goto_split:down
+keybind = command+l=goto_split:up
+keybind = command+;=goto_split:right
+
 font-size = 20
