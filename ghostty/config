@@ -7,4 +7,4 @@ keybind = command+k=goto_split:down
 keybind = command+l=goto_split:up
 keybind = command+;=goto_split:right
 
-font-size = 20
+font-size = 22
