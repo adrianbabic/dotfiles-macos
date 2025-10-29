@@ -2,9 +2,17 @@ theme = Doom One
 
 keybind = command+r=reload_config
 
-keybind = command+j=goto_split:left
-keybind = command+k=goto_split:down
-keybind = command+l=goto_split:up
-keybind = command+;=goto_split:right
+keybind = command+h=goto_split:left
+keybind = command+j=goto_split:down
+keybind = command+k=goto_split:up
+keybind = command+l=goto_split:right
+
+keybind = ctrl+command+h=resize_split:left,20
+keybind = ctrl+command+j=resize_split:down,20
+keybind = ctrl+command+k=resize_split:up,20
+keybind = ctrl+command+l=resize_split:right,20
+
 
 font-size = 20
+
+keybind = shift+enter=text:\x1b\r
