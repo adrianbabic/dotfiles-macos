@@ -241,6 +241,10 @@ if.app-id = 'md.obsidian'
 run = "move-node-to-workspace 4" 
 
 [[on-window-detected]]
+if.app-id = 'dev.zed.Zed'
+run = "move-node-to-workspace 4" 
+
+[[on-window-detected]]
 if.app-id = 'notion.id'
 run = "move-node-to-workspace 5" 
 
